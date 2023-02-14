@@ -19,7 +19,7 @@
 
 - **[npm install react@latest react-dom@latest ]**
 - **[npm install --save-dev @vitejs/plugin-react --force ]** 
-- **[@vitejs/plugin-react --force]**
+
 
 # Back 
 - php artisan serve **[Back]**
